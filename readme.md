@@ -1,3 +1,8 @@
+## How to run
+1. Setup your database, username and passoword in .env file.
+2. Run the migration using php command to create the tables in your database.
+3. Run the project using 'php artisan serve'.  
+
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
